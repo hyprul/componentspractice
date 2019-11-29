@@ -1,2 +1,0 @@
-# componentspractice
-Created with CodeSandbox
